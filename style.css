@@ -479,6 +479,7 @@ body{
         right: 10px;
         top: 10px;
         cursor: pointer;
+        filter: invert(1);
     }
     footer{
         position: relative;
